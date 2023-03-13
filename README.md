@@ -14,18 +14,22 @@ Download Xampp pada situs resminya, lalu ekstrak filenya dan simpan di directory
 
 <h2> 2. Menjalankan Xampp </h2>
 Tekan tombol start pada action apache seperti pada gambar dibawah ini :
+
 ![Masuk Xampp](https://user-images.githubusercontent.com/119909214/224665634-de187b93-eca6-4dd3-a49e-35e0191a8a62.png)
 
 <h2> 3. Memulai PHP </h2>
 Buatlah folder lab2_php_dasar pada (C:\xampp\htdocs) seperti gambar dibawah :
+
 ![Mulai Projek](https://user-images.githubusercontent.com/119909214/224666149-4b31c4b3-9f64-4d60-b333-3eaef445e083.png)
 
 kemudian untuk mengakses directory tersebut pada web server dengan mengakses url http://localhost/projek/lab2_php_dasar/
+
 ![web server](https://user-images.githubusercontent.com/119909214/224667049-d707f812-2df6-490b-b9ca-f43f36952fa5.png)
 
 <h2> 4. Program Dasar dan Variable PHP</h2>
 Buatlah file baru dengan nama php_dasar1.php pada directory tersebut.
 Kemudian buatlah kode sebagai berikut :
+
 ![Input 1](https://user-images.githubusercontent.com/119909214/224667629-ca72e338-5f4d-44a4-b1ee-1d499b18ac46.png)
 
 Kemudian hasil ouputnya seperti ini :
